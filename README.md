@@ -142,7 +142,7 @@ This repository is intended for educational and authorized security testing purp
 ## Screenshots
 
 ### Main Interface
-![Dashboard](screenshots/screenshot.png)
+![Dashboard](./screenshot.png)
 *The main Offsec Hub interface showing categorized tools and filtering options*
 ---
 
