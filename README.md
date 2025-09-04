@@ -40,7 +40,7 @@ google-chrome index.html
 
 # Option 2: Local server (recommended)
 python3 -m http.server 8000
-# Then open http://localhost:8000 in your browser
+# Then open http://localhost:8000/index.html in your browser
 ```
 
 3. No additional dependencies required - pure HTML/CSS/JavaScript implementation.
