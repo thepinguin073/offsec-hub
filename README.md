@@ -58,7 +58,6 @@ The Offsec Hub interface provides multiple filtering options:
 
 ### Navigation
 - Browse tools by categories in the main interface
-- Click on tool cards to view detailed information
 - Use the filter combinations to find specific tools quickly
 - Access external links and documentation directly from tool descriptions
 
@@ -102,6 +101,7 @@ The Offsec Hub interface provides multiple filtering options:
 - Bluetooth and RF analysis utilities
 - Wireless attack frameworks
 
+### And much more ...
 ---
 
 ## Contributing
